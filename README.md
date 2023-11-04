@@ -14,31 +14,33 @@
   You can access the Password Generator online without any installation.
   
   ## Usage
+
+  You can access the website here: https://rodrigo0599.github.io/Password-Generator/
+
 1.Click the "Generate Password" button on the screen.
 
-Generate Password Button!!!!!!
+
+![Base State of Password Generator Website](./Develop/images/main.png)
+
 
 2.A prompt box will appear, asking you to select a password length.
 
-Password Length Prompt!!!!!!
+![box State of Password Generator Website](./Develop/images/box.png)
+
 
 3.If you fail to set a password length within the specified criteria, error messages will guide you.
 
-Failure Condition Example
+![Base State of Password Generator Website](./Develop/images/error.png)
 
 4.After correctly setting the password length, confirm which character sets to include by clicking "OK" or "Cancel."
 
-Character Set Confirmation Box
+![Base State of Password Generator Website](./Develop/images/ok.png)
 
-5.If you deny all character sets by canceling the confirmation boxes, you will receive an alert prompting you to try again.
+5.Once you've set a correct password length and confirmed at least one character set, the website will generate a password in the text box.
 
-Insecure Password Alert
+![Base State of Password Generator Website](./Develop/images/final.png)
 
-6.Once you've set a correct password length and confirmed at least one character set, the website will generate a password in the text box.
-
-Generated Password Example
-
-7.You can refresh the page and repeat the process as needed.
+6.You can refresh the page and repeat the process as needed.
 
   ## Credits
   Rutgers Full Stack Coding Bootcamp for starter code.
